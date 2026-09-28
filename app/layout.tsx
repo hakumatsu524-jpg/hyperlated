@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Hyperlated — Solana Perpetuals',
+  description: 'Hyperlated is a non-custodial Solana perpetuals trading terminal. Connect a wallet, choose a market, set leverage, and manage positions with transparent on-chain settlement.',
   generator: 'v0.app',
   icons: {
     icon: [
